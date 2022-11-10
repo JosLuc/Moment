@@ -26,4 +26,6 @@ Ambientes de trabalho:
   <li>Postman</li>
 </ul>
 
+O projeto foi instruindo pelo instrutor Matheus Battisti.
+
 OBS!!!! A api do projeto pode ser encontrando trocando a branch.
